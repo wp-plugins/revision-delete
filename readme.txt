@@ -1,4 +1,4 @@
-=== ms HTML special Chars in your comments ===
+=== revision delete! ===
 Contributors: DZVO
 Tags: post, revision, admin
 Requires at least: 2.7
